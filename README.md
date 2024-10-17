@@ -1,5 +1,5 @@
 
-# Lego para explicar metodologia
+# Lego para explicar Metodologia Ágil
 
 Lendo alguns case onde a empresa Lego, implementando a metologia ágil, pensei em tentar transpor os conceitos ágil no próprio brinquedo.
 
